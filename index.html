@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart College Website Portal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="header-inner">
+            <div class="brand">
+                <h1>D. Y. Patil College of Engineering</h1>
+                <p>Approved by AICTE, New Delhi & Affiliated to Savitribai Phule Pune University</p>
+            </div>
+            <div class="header-badge">T.Y. AI&DS | CCE-5</div>
+        </div>
+    </header>
+
+    <nav class="navbar">
+        <button id="menuBtn" class="menu-btn" onclick="toggleMenu()">☰ Menu</button>
+        <div id="navLinks" class="nav-links">
+            <a href="#home" class="nav-item">Home</a>
+            <a href="#departments" class="nav-item">Departments</a>
+            <a href="#courses" class="nav-item">Courses</a>
+            <a href="#faculty" class="nav-item">Faculty</a>
+            <a href="#notices" class="nav-item">Notices</a>
+            <a href="#enquiry" class="nav-item">Student Enquiry</a>
+        </div>
+    </nav>
+
+    <main id="app" class="content-area">
+        <p class="loading">Loading college portal data...</p>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-inner">
+            <p><strong>D. Y. Patil College of Engineering, Akurdi, Pune - 411044</strong></p>
+            <p>Web Technology 1 (AD124PE507.1) | Unit V CCE-5 Mini Project</p>
+            <p>&copy; 2026-2027 DYPCOE Akurdi. Single Page Application with Vanilla HTML/CSS/JS.</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

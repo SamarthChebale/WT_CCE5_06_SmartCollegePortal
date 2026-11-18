@@ -1,0 +1,202 @@
+{
+  "college": {
+    "name": "D. Y. Patil College of Engineering, Akurdi",
+    "subtitle": "Approved by AICTE, New Delhi & Affiliated to Savitribai Phule Pune University",
+    "established": 1984,
+    "location": "Akurdi, Pune - 411044",
+    "about": "Established in 1984, DYPCOE offers premier undergraduate and postgraduate engineering programs fostering research, innovation, and ethical engineering education.",
+    "highlights": [
+      "NAAC 'A' Grade Accredited Institute",
+      "Over 40 Years of Academic Excellence",
+      "Strong Corporate Connections & 90%+ Placement Record",
+      "Modern Computing Labs, Centers of Excellence & High-Speed Wi-Fi"
+    ]
+  },
+  "departments": [
+    {
+      "id": "comp",
+      "name": "Computer Engineering",
+      "code": "COMP",
+      "hod": "Dr. Ajit Kadam",
+      "intake": 180,
+      "description": "Focuses on computer architecture, software development, algorithms, web technologies, and cloud computing.",
+      "labs": "High Performance Computing Lab, Cloud Lab, Software Engineering Lab"
+    },
+    {
+      "id": "it",
+      "name": "Information Technology",
+      "code": "IT",
+      "hod": "Mrs. Suvarna Nimal",
+      "intake": 120,
+      "description": "Focuses on network administration, enterprise software development, database systems, and cybersecurity.",
+      "labs": "Network Security Lab, Database Lab, Mobile Application Lab"
+    },
+    {
+      "id": "aids",
+      "name": "Artificial Intelligence & Data Science",
+      "code": "AI&DS",
+      "hod": "Dr. Vinod Kapse",
+      "intake": 120,
+      "description": "Focuses on machine learning, deep learning, data visualization, predictive analytics, and natural language processing.",
+      "labs": "Deep Learning Studio, Big Data Lab, AI Innovation Hub"
+    },
+    {
+      "id": "mech",
+      "name": "Mechanical Engineering",
+      "code": "MECH",
+      "hod": "Dr. Prashant Pawar",
+      "intake": 120,
+      "description": "Focuses on machine design, thermodynamics, electric vehicle systems, robotics, and precision manufacturing.",
+      "labs": "CAD/CAM Simulation Center, Robotics Lab, Automobile Lab"
+    },
+    {
+      "id": "civil",
+      "name": "Civil Engineering",
+      "code": "CIVIL",
+      "hod": "Dr. Ramesh Shinde",
+      "intake": 60,
+      "description": "Specializes in smart structural engineering, GIS survey, green building techniques, and transportation planning.",
+      "labs": "Concrete Technology Lab, Geotechnical Lab, Surveying Center"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CS-401",
+      "title": "Web Technology",
+      "dept": "Computer Engineering",
+      "semester": "Sem V",
+      "credits": 4,
+      "description": "Covers semantic HTML5, CSS3 styling, client-side SPA routing, ES6 JavaScript, and JSON data integration."
+    },
+    {
+      "code": "CS-302",
+      "title": "Data Structures & Algorithms",
+      "dept": "Computer Engineering",
+      "semester": "Sem III",
+      "credits": 4,
+      "description": "Explores linear and non-linear data structures, searching and sorting algorithms, and algorithm complexity."
+    },
+    {
+      "code": "IT-303",
+      "title": "Database Management Systems",
+      "dept": "Information Technology",
+      "semester": "Sem V",
+      "credits": 4,
+      "description": "Relational database design, SQL query writing, normal forms, transaction management, and NoSQL."
+    },
+    {
+      "code": "IT-402",
+      "title": "Cyber Security & Cryptography",
+      "dept": "Information Technology",
+      "semester": "Sem VII",
+      "credits": 3,
+      "description": "Information security principles, public key cryptography, network security protocols, and ethical hacking."
+    },
+    {
+      "code": "AI-301",
+      "title": "Machine Learning Foundations",
+      "dept": "Artificial Intelligence & Data Science",
+      "semester": "Sem V",
+      "credits": 4,
+      "description": "Supervised and unsupervised learning, regression, classification, decision trees, and model evaluation."
+    },
+    {
+      "code": "ME-305",
+      "title": "Robotics & Automation",
+      "dept": "Mechanical Engineering",
+      "semester": "Sem VI",
+      "credits": 3,
+      "description": "Kinematics and dynamics of robotic arms, sensors, microcontrollers, and industrial automation."
+    },
+    {
+      "code": "CV-301",
+      "title": "Structural Analysis",
+      "dept": "Civil Engineering",
+      "semester": "Sem V",
+      "credits": 4,
+      "description": "Analysis of determinate and indeterminate structures, beams, frames, and load calculation methods."
+    }
+  ],
+  "faculty": [
+    {
+      "id": "f1",
+      "name": "Dr. Ajit Kadam",
+      "dept": "Computer Engineering",
+      "designation": "Professor & Head of Department",
+      "qualification": "Ph.D. in Computer Engineering",
+      "experience": "16 Years",
+      "email": "ajit.kadam@dypcoeakurdi.ac.in",
+      "specialization": "Distributed Computing, Cloud Systems"
+    },
+    {
+      "id": "f2",
+      "name": "Mrs. Suvarna Nimal",
+      "dept": "Information Technology",
+      "designation": "Associate Professor & HOD",
+      "qualification": "M.Tech in Information Technology",
+      "experience": "12 Years",
+      "email": "suvarna.nimal@dypcoeakurdi.ac.in",
+      "specialization": "Information Security, Database Systems"
+    },
+    {
+      "id": "f3",
+      "name": "Dr. Vinod Kapse",
+      "dept": "Artificial Intelligence & Data Science",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D. in Artificial Intelligence",
+      "experience": "14 Years",
+      "email": "vinod.kapse@dypcoeakurdi.ac.in",
+      "specialization": "Deep Learning, Natural Language Processing"
+    },
+    {
+      "id": "f4",
+      "name": "Prof. Meera Sharma",
+      "dept": "Computer Engineering",
+      "designation": "Assistant Professor",
+      "qualification": "M.E. in Computer Engineering",
+      "experience": "8 Years",
+      "email": "meera.sharma@dypcoeakurdi.ac.in",
+      "specialization": "Web Technology, Full Stack Development"
+    },
+    {
+      "id": "f5",
+      "name": "Dr. Prashant Pawar",
+      "dept": "Mechanical Engineering",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D. in Mechanical Engineering",
+      "experience": "18 Years",
+      "email": "prashant.pawar@dypcoeakurdi.ac.in",
+      "specialization": "CAD/CAM, Robotics, Electric Vehicles"
+    }
+  ],
+  "notices": [
+    {
+      "id": "n1",
+      "title": "Unit V - CCE-5 Evaluation Schedule Released",
+      "category": "Academic",
+      "date": "18 Nov 2026",
+      "details": "Continuous evaluation (CCE-5) for Web Technology 1 will be conducted in the practical lab for 10 marks as per batch allotment."
+    },
+    {
+      "id": "n2",
+      "title": "SPPU End Semester Exam Form Submission",
+      "category": "Exam",
+      "date": "15 Nov 2026",
+      "details": "All students must verify their exam forms online on the SPPU portal and submit the signed printout to the department office."
+    },
+    {
+      "id": "n3",
+      "title": "Campus Placement Drive for Final Year Students",
+      "category": "Placement",
+      "date": "12 Nov 2026",
+      "details": "Major IT recruiters will begin their campus hiring drives next month. Eligible students should register on the T&P portal."
+    },
+    {
+      "id": "n4",
+      "title": "Annual Techno-Cultural Fest 'Innova' Registrations",
+      "category": "Event",
+      "date": "08 Nov 2026",
+      "details": "Registrations are now open for project exhibitions, code debugging contests, hackathons, and cultural competitions."
+    }
+  ]
+}
